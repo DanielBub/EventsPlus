@@ -1,4 +1,4 @@
-var server_prefix = "https://eventspp.herokuapp.com";
+var server_prefix = "https://eventsplus.herokuapp.com";
 // var server_prefix = "http://localhost:5000";
 var current_user = "";
 var isMale = true;
